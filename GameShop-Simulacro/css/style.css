@@ -1,0 +1,66 @@
+.bg-nav {
+  background-color: #222222;
+}
+.letter-white {
+  color: white;
+}
+
+.letter-red {
+  color: #d01418;
+}
+.bg-section {
+  background-image: url('../img/fondo.jpg');
+  background-size: cover;
+  height: 50vh;
+}
+.btn-red {
+  background-color: #d01418;
+  border-radius: 0px;
+  color: white;
+}
+.btn-red:hover {
+  background-color: #d01417b3;
+  color: white;
+}
+.f-size {
+  font-size: small;
+}
+.size-img {
+  max-width: 129px;
+  max-height: 163px;
+  margin: 25px 50px;
+}
+.bg-sillagamer {
+  background-image: url('../img/sillagamer.jpg');
+  background-size: cover;
+  font-size: cover;
+  height: 135px;
+  max-width: 361px;
+  border-radius: 5px;
+  border: 1px solid rgb(1, 128, 1);
+}
+.bg-computadora {
+  background-image: url('../img/computadora.jpg');
+  background-size: cover;
+  height: 135px;
+  max-width: 361px;
+  border-radius: 5px;
+  border: 1px solid rgb(1, 128, 1);
+}
+.hf-50 {
+  height: 214px;
+}
+.ci-blue {
+  color: #1476d0;
+}
+.ci-purple {
+  color: #ce0cff;
+}
+.ci-lblue {
+  color: #14aed0;
+}
+.hover-white:hover {
+  background-color: #d01418;
+  color: white;
+  box-sizing: border-box;
+}
